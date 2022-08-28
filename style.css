@@ -117,8 +117,8 @@ body {
     background-color: var(--color-neutral-100);
     margin: 2rem var(--size-default);
     border-radius: 12px;
-    width: 650px;
-    height: 400px;
+    width: 600px;
+    height: 450px;
     overflow: hidden;
 }
 
@@ -177,7 +177,7 @@ body {
     margin-right: 1em;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 580px) {
     :root {
         --fs-heading: 2rem;
         --fs-body: 0.8rem;
